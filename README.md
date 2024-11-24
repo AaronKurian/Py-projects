@@ -3,6 +3,15 @@
 
 This repository contains Python scripts that utilize MediaPipe and OpenCV for different real-time computer vision applications.
 
+## Folder Structure
+```
+.
+├── face_detection.py
+├── face_mesh.py
+├── hand_detection.py
+├── README.md
+└── requirements.txt
+```
 ## Requirements
 
 - Python 3.x
