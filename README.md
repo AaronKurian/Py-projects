@@ -71,7 +71,7 @@ Feel free to contribute by submitting new solutions, optimized code, or explanat
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](LICENSE.md).
 
 Made With ❤️ by Aaron Kurian Abraham
 
