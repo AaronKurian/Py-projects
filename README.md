@@ -26,7 +26,7 @@ Install the required dependencies:
     pip install -r requirements.txt
 
 
-Alternatively, you can install the dependencies individually:
+### Alternatively, you can install the dependencies individually:
 
     pip install opencv-python mediapipe
 
