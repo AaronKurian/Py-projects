@@ -24,7 +24,6 @@ with mp_face_detection.FaceDetection(
     cv2.imwrite('/tmp/annotated_image' + str(idx) + '.png', annotated_image)
 
 # For webcam input:
-# For webcam input:
 cap = cv2.VideoCapture(0)
 
 with mp_face_detection.FaceDetection(
