@@ -38,15 +38,16 @@ For Static Images:
        
 For Webcam Input:
         Simply run the script and allow it to access your webcam for real-time detection:
-           ```
-            python3 face_detection.py
-           ```
-           ```
-            python3 face_mesh.py
-           ```
-           ```
-            python3 hand_detection.py
-           ```
+        
+```
+    python3 face_detection.py
+```
+```
+    python3 face_mesh.py
+```
+```
+    python3 hand_detection.py 
+```
             
 ## Scripts Overview
 
